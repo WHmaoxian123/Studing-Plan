@@ -25,7 +25,7 @@
 
 ### 1. 克隆仓库
 ```bash
-git clone [https://github.com/你的用户名/Road_to_Godhood.git](https://github.com/你的用户名/Road_to_Godhood.git)
+git clone [https://github.com/Lvasi/Road_to_Godhood.git](https://github.com/Lvasi/Road_to_Godhood.git)
 cd Road_to_Godhood
 ```
 
