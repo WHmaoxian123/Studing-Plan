@@ -1,0 +1,23 @@
+{
+  "productName": "学习计划",
+  "version": "1.0.0",
+  "identifier": "com.studyplanner.app",
+  "build": {
+    "frontendDist": "../dist",
+    "devUrl": "http://localhost:1420"
+  },
+  "app": {
+    "windows": [
+      {
+        "title": "学习计划",
+        "width": 380,
+        "height": 1000,
+        "resizable": true,
+        "center": true
+      }
+    ],
+    "security": {
+      "csp": null
+    }
+  }
+}
